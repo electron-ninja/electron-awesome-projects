@@ -1,10 +1,8 @@
 ## Explore projects based on [**electron**](https://electron.atom.io) and learn how to use it!
 ### **Projects**:
 #### 1. [**sinatine**](https://github.com/djyde/sinatine) (⭐️ 300+): [weibo](https://en.wikipedia.org/wiki/Sina_Weibo) HTML5 for macOS, inspired by [anatine](https://github.com/sindresorhus/anatine/). Small size, good project for electron beginners.
-[![Github All Releases](https://img.shields.io/github/downloads/djyde/sinatine/total.svg)](https://github.com/djyde/sinatine)
-[![GitHub release](https://img.shields.io/github/release/djyde/sinatine.svg)](https://github.com/djyde/sinatine/releases)
-[![Circle](https://circleci.com/gh/djyde/sinatine.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/djyde/sinatine)
-<img src="/img/sinatine.png" width="240" height="480" style="float"left />
+#### [![Github All Releases](https://img.shields.io/github/downloads/djyde/sinatine/total.svg)](https://github.com/djyde/sinatine)[![GitHub release](https://img.shields.io/github/release/djyde/sinatine.svg)](https://github.com/djyde/sinatine/releases)[![Circle](https://circleci.com/gh/djyde/sinatine.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/djyde/sinatine)
+<img src="/img/sinatine.png" width="240" height="480" />
 
 #### 2.[**PopHub**](https://github.com/questbeat/PopHub-Electron) (⭐️ 50+):
 #### GitHub activity & notification viewer. You can download the [**actual app**](https://itunes.apple.com/jp/app/pophub/id928494006?mt=12) written in Swift from the Mac App Store.
